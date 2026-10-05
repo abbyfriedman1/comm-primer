@@ -1,0 +1,13 @@
+title: "Communication Theory Primer"
+description: "An accessible introduction to communication theory for everyday communication problems in the AI era."
+url: "https://abbyfriedman1.github.io"
+baseurl: "/comm-primer"
+repository: "abbyfriedman1/comm-primer"
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-seo-tag
+collections_dir: .
+exclude:
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header class="site-header" role="banner" aria-label="Site header">
+      <div class="container">
+        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        <p class="site-tagline">{{ site.description }}</p>
+        <nav aria-label="Primary">
+          <ul class="nav-list" role="list">
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/pages/transmission-view.html' | relative_url }}">Transmission View</a></li>
+            <li><a href="{{ '/pages/meaning-and-culture.html' | relative_url }}">Meaning & Culture</a></li>
+            <li><a href="{{ '/pages/interpretation-and-power.html' | relative_url }}">Interpretation & Power</a></li>
+            <li><a href="{{ '/pages/interpretation-and-intention.html' | relative_url }}">Interpretation & Intention</a></li>
+            <li><a href="{{ '/pages/what-to-do.html' | relative_url }}">What to Do</a></li>
+            <li><a href="{{ '/pages/how-this-site-was-built.html' | relative_url }}">How This Site Was Built</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="container" role="main" aria-live="polite">
+      <article aria-labelledby="page-title">
+        <h2 id="page-title">{{ page.title }}</h2>
+        {{ content }}
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo" aria-label="Site footer">
+      <div class="container">
+        <p>© {{ 'now' | date: '%Y' }} {{ site.title }}. Content authored by site owner.</p>
+      </div>
+    </footer>
+  </body>
+</html>
