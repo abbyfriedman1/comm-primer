@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Welcome to **Communication Theory Primer**, a website that introduces major schools of communication theory for non-technical audiences facing real communication challenges.
+Welcome to **Communicati
 
 This project explores how classic and contemporary communication frameworks can make everyday misunderstandings easier to identify and solve, especially when artificial intelligence systems now mediate so much of human interaction.
 
