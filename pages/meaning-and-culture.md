@@ -4,7 +4,7 @@ title: Meaning and Culture
 permalink: /pages/meaning-and-culture.html
 ---
 
-Meaning and Culture
+## Meaning and Culture
 
 The types of semiotics used in algorithmic feeds include things like misleading pictures and persuasive wording. These semiotics can influence the overall message, and create a different meaning for each individual, depending on how it's interpreted. The more a certain type of  message comes into a user’s feed, it the more it starts to create a trend with common themes. This can start to send a pretty direct message to the viewer.
 
