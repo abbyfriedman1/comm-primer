@@ -12,12 +12,12 @@ With the rapid advancements in technology and AI today, there’s been an increa
 AI plays a significant role in the process of creating algorithmic feeds. “Machine-learning models analyze content, account history and behavioral patterns to identify and flag inaccurate posts—often before human moderators ever see them” (Lanman, 2026). This demonstrates how AI can be used to track users' activity across platforms, influencing the content they see. This influence can impact us both personally and professionally.
 
 
-## What this site is for
+## What This Site Is For
 
 - Turning abstract theory into everyday guidance.
 - Making hidden assumptions in communication visible.
 - Helping readers reason through communication breakdowns involving AI tools and platforms.
 
-## Site structure
+## Site Structure
 
 Each section applies a specific theoretical lens to 21st-century communication problems, with real-life examples, case studies, and analysis.
