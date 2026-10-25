@@ -13,7 +13,7 @@ Boilerplate process summary:
 - A GitHub Actions workflow builds the site automatically on every push to the `main` branch.
 - The build setup uses repository-aware configuration (`url` and `baseurl`) so it works correctly on GitHub Pages.
 
-About agent involvement
+About agent involvement:
 
 An AI coding agent scaffolded the site structure, created starter content, added accessibility-focused markup, and configured automation so you can concentrate on writing and revising the substantive theory analysis.
 
