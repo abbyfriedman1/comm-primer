@@ -4,8 +4,6 @@ title: What the Reader Should Do
 permalink: /pages/what-to-do.html
 ---
 
-## Recommendations and Suggestions
-
 There are several steps you can take to help reduce the influence that algorithmic feeds may have on you.
 
 One key aspect is to always be aware of persuasion and other strategies used by different accounts and websites to skew or alter your perspective. Not everything in your feed is bad by any means, but it’s crucial to know the ways and tactics used to influence users. 
