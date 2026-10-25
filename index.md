@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Welcome to The Theory Primer: AI Everywhere- A Primer for Personal and Professional Use
+title: 
+Welcome to The Theory Primer: AI Everywhere- A Primer for Personal and Professional Use
 ---
 ## Introduction
 
