@@ -4,7 +4,7 @@ title: What the Reader Should Do
 permalink: /pages/what-to-do.html
 ---
 
-Recommendations and Suggestions
+## Recommendations and Suggestions
 
 There are several steps you can take to help reduce the influence that algorithmic feeds may have on you.
 
