@@ -4,7 +4,7 @@ title: Interpretation and Power
 permalink: /pages/interpretation-and-power.html
 ---
 
-Interpretation and Power
+## Interpretation and Power
 
 In regards to Stuart Hall's theory on encoding and decoding,  Mambrol 2020 states that, “According to this model, the sender creates the message and fixes its meaning, which is then communicated directly and transparently to the recipient.” Hall believed that meaning derived from “every moment in a circuit”, and that it’s produced from both the sender and receiver.
 
