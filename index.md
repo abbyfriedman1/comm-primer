@@ -2,14 +2,14 @@
 layout: default
 title: "Welcome to The Theory Primer"
 ---
-## AI Everywhere - A Primer for Personal and Professional Use
+## AI Everywhere- A Primer for Personal and Professional Use
 ## Introduction
 
-This project explores how classic and contemporary communication frameworks can make everyday misunderstandings easier to identify and solve, especially when artificial intelligence systems now mediate more of our interactions.
+This project explores how classic and contemporary communication frameworks can make everyday misunderstandings easier to identify and solve, especially when artificial intelligence systems now med[iated...]
 
-With the rapid advancements in technology and AI today, there’s been an increase in the customizability of apps. Artificial intelligence plays a large role in the way that algorithmic feeds are informed and personalized.
+With the rapid advancements in technology and AI today, there’s been an increase in the customizability of apps. Artificial intelligence plays a large role in the way that algorithmic feeds are [info...]
 
-AI plays a significant role in the process of creating algorithmic feeds. “Machine-learning models analyze content, account history and behavioral patterns to identify and flag inaccurate posts—or to recommend content to users.”
+AI plays a significant role in the process of creating algorithmic feeds. “Machine-learning models analyze content, account history and behavioral patterns to identify and flag inaccurate posts—or[...]
 
 ## What this site is for
 
