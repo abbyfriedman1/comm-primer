@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Homehttps://github.com/abbyfriedman1/comm-primer/blob/main/index.md
----
+title: ## Welcome to The Theory Primer: AI Everywhere- A Primer for Personal and Professional Use
 
-## Welcome to The Theory Primer: AI Everywhere- A Primer for Personal and Professional Use
+---
 
 ## Introduction
 
