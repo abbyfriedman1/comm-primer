@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-Welcome to **Communicati
+Welcome to The Theory Primer: AI Everywhere- A Primer for Personal and Professional Use
+
 
 This project explores how classic and contemporary communication frameworks can make everyday misunderstandings easier to identify and solve, especially when artificial intelligence systems now mediate so much of human interaction.
 
-Use the pages in this site to compare different theoretical lenses and to build practical communication habits in personal, civic, and professional settings.
 
 ## What this site is for
 
@@ -17,4 +17,4 @@ Use the pages in this site to compare different theoretical lenses and to build 
 
 ## Site structure
 
-Each section applies a specific theoretical lens to 21st-century communication problems, with room for your own examples, case studies, and analysis.
+Each section applies a specific theoretical lens to 21st-century communication problems, with real-life examples, case studies, and analysis.
