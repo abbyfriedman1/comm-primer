@@ -6,7 +6,7 @@ title: Home
 Welcome to The Theory Primer: AI Everywhere- A Primer for Personal and Professional Use
 
 
-This project explores how classic and contemporary communication frameworks can make everyday misunderstandings easier to identify and solve, especially when artificial intelligence systems now mediate so much of human interaction.
+This project explores how classic and contemporary communication frameworks can make everyday misunderstandings easier to identify and solve, especially when artificial intelligence systems now mediate so much of human interaction. The specific topic that is explored is the effect of algorithmic feeds and how to influence and shape viewers beliefs.
 
 
 ## What this site is for
