@@ -4,7 +4,7 @@ title: The Transmission View and Its Limits
 permalink: /pages/transmission-view.html
 ---
 
-Transmission View and Its Limits
+## Transmission View and Its Limits
 
 Shannon-Weaver’s modern information theory raised the question of “how messages can be reproduced accurately despite limits and noise.” This theory involved reliable transmission, focusing on “not interpreting meaning in the ordinary human sense.” His basic sequence demonstrated the flow of information to the intended destination. It shows how the message goes through a transmitter, is signaled in the channel, is received by the receiver, and then is sent to the destination. This can also, in many ways, relate to the process of algorithmic feeds. For this example, the information source could be all the places that AI pulls user data from, which then transmits personalized posts and content through the channel, which then is received by the user that it is intended for.
 
