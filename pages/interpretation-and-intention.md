@@ -4,7 +4,7 @@ title: Interpretation and Intention
 permalink: /pages/interpretation-and-intention.html
 ---
 
-The Fourth Intention
+## The Fourth Intention
 
 Intentio algorithmi translates to “intention of the algorithm.” In other words, the reasoning and way that the software selects, orders, and produces content. AI plays a role in this action by collecting and analyzing users’ data across social platforms and websites, enabling it to produce a customized feed based on those findings.
 
