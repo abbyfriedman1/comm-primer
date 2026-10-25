@@ -3,7 +3,6 @@ layout: default
 title: "Welcome to The Theory Primer"
 ---
 ## AI Everywhere- A Primer for Personal and Professional Use
-## Introduction
 
 This project explores how classic and contemporary communication frameworks can make everyday misunderstandings easier to identify and solve, especially when artificial intelligence systems now med[iated...]
 
